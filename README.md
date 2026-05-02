@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Aanchal
 
-<!--
-**Aanchal1110/Aanchal1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+This repository represents my learning journey, projects, and continuous improvement as a backend developer, along with my exploration of modern frontend frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Backend Developer focused on building scalable and efficient systems
+- 🌱 Currently learning:
+  - Advanced backend development & API design
+  - Frontend frameworks (React, Angular)
+- 🔍 Exploring full-stack development
+- 🎯 Goal: To build real-world applications and grow as a strong developer
+
+---
+
+## 📂 Repository Contents
+
+This repository includes:
+
+- 🧩 Problem-solving and logic-building practice
+- 🛠️ Mini projects and experiments
+- 📦 Backend development work
+- 🧪 Learning new tools and frameworks
+- 🗄️ Database practice
